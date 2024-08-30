@@ -1,0 +1,38 @@
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+    /*========== Colors ==========*/
+    
+    --primary-color:rgb(#28cb8b);
+    --secondary-color:rgb(#263238);
+    --info-color:rgb(#2194f3);
+
+    /*===== Neutral =====*/
+    --black-color: rgb(#263238);
+    --d_grey-color: rgb(#d4d4d4);
+    --gray-color: rgb(#717171);
+    --l_grey-color: rgb(#89939e);
+    --grey_blue-color:rgb(#abbed1);
+    --silver-color:rgb(#f5f7fa);
+    --white_color:rgb(#ffffff);
+    
+    /*===== Shade =====*/
+    --shade-1-color:rgb(#43a046);
+    --shade-2-color:rgb(#388e3b);
+    --shade-3-color:rgb(#237d31);
+    --shade-4-color:rgb(#1b5e1f);
+    --shade-5-color:rgb(#103e13);
+
+    /*===== Tint =====*/
+    --tint-1-color:rgb(#66bb69);
+    --tint-1-color:rgb(#81c784);
+    --tint-1-color:rgb(#a5d6a7);
+    --tint-1-color:rgb(#c8e6c9);
+    --tint-1-color:rgb(#e8f5e9);
+
+    /*===== Action =====*/
+
+    --warning-color:rgb(#fbc02d);
+    --error-color:rgb(#e53835);
+    --success-color:rgb(#2e7d31);
+}
